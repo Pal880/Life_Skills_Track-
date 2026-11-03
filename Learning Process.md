@@ -16,9 +16,9 @@ The story of Salvador Dalí and Thomas Edison was most interesting. They took sh
 
 **Question 3: What are active and diffused modes of thinking?**
 
- **Focused Mode:** When we concentrate fully on studying, coding, or solving a problem.
+- **Focused Mode:** When we concentrate fully on studying, coding, or solving a problem.
 
- **Diffused Mode:** When our mind is relaxed, such as during a walk or a break. It helps us connect ideas and find solutions.
+- **Diffused Mode:** When our mind is relaxed, such as during a walk or a break. It helps us connect ideas and find solutions.
 
 Both modes are important for better learning.
 
@@ -28,11 +28,11 @@ Both modes are important for better learning.
 
 **Question 4: According to the video, what steps should we follow when learning a new topic?**
 
--- Decide what I want to learn.
--- Break the topic into smaller parts.
--- Use 3–5 good learning resources.
--- Remove distractions such as reels and continous mobile check.
--- Practice regularly for at least 20 hours.
+- Decide what I want to learn.
+- Break the topic into smaller parts.
+- Use 3–5 good learning resources.
+- Remove distractions such as reels and continuous mobile checking.
+- Practice regularly for at least 20 hours.
 
 ---
 
@@ -40,11 +40,11 @@ Both modes are important for better learning.
 
 **Question 5: What actions can you take to improve your learning process?**
 
--- Avoid distractions and focus on learning.
--- Track how I spend my time.
--- Take short breaks between study sessions.
--- Break big topics into smaller tasks.
--- Practice coding instead of only reading.
--- Explain concepts in my own simple words.
--- Set deadlines for completing topics.
--- Ask for help when I get stuck.
+- Avoid distractions and focus on learning.
+- Track how I spend my time.
+- Take short breaks between study sessions.
+- Break big topics into smaller tasks.
+- Practice coding instead of only reading.
+- Explain concepts in my own simple words.
+- Set deadlines for completing topics.
+- Ask for help when I get stuck.
